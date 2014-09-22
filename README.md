@@ -3,3 +3,4 @@
 これはGitのチュートリアルです。
 
   - feature-A
+  - fix-B
